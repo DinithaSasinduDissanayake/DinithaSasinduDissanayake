@@ -6,6 +6,8 @@ Dual-degree undergraduate (expected 2027) in:
 
 I build practical data systems for real constraints: legacy databases, verification-first migrations, and retail analytics.
 
+Currently targeting internships in data analytics, data science, and machine learning.
+
 ## Focus
 - Data analytics and automation for retail operations
 - Data extraction/ETL + validation ("trust the numbers")
@@ -13,11 +15,18 @@ I build practical data systems for real constraints: legacy databases, verificat
 
 ## Featured Work
 - FluxPricer (Dynamic Pricing AI, multi-agent) — top contributor
-  - https://github.com/DinithaSasinduDissanayake/dynamic-pricing-ai-IRWA_PROJECT
-- Retail analytics and data tooling (private for now; being sanitized for public release)
-  - Inventory health + reporting (dead stock/overstock)
-  - Market basket + layout optimization (FP-Growth + Louvain)
-  - Legacy Access 97 (.mdb) migration + verification
+  - Repo (my fork): https://github.com/DinithaSasinduDissanayake/dynamic-pricing-ai-IRWA_PROJECT
+  - Upstream: https://github.com/ManushiChamika/dynamic-pricing-ai-IRWA_PROJECT
+
+- Family retail operation: data migration + analytics (private for now; being sanitized for public release)
+  - Legacy Access 97 (.mdb) master-data migration + verification-first checks (41,196 records; 95% reduction in manual entry)
+  - Inventory health analytics (dead stock / overstock via months of supply) + HTML reporting
+  - Basket mining + shelf zoning guides (FP-Growth + Louvain on co-purchase graphs)
+
+## Stack
+- Python, SQL, Pandas, NumPy, SQLite
+- NetworkX, mlxtend
+- FastAPI, Docker, Linux
 
 ## Contact
 - Email: dinithasasindu10@gmail.com
