@@ -16,7 +16,7 @@ Data science student exploring how data systems and machine learning ideas trans
   - Repo (my fork): https://github.com/DinithaSasinduDissanayake/dynamic-pricing-ai-IRWA_PROJECT
   - Upstream: https://github.com/ManushiChamika/dynamic-pricing-ai-IRWA_PROJECT
 
-- Family retail operation: data migration + analytics (private for now; being sanitized for public release)
+- Retail operations: data migration + analytics (private for now; being sanitized for public release)
   - Legacy Access 97 (.mdb) master-data migration + verification-first checks (41,196 records; 95% reduction in manual entry)
   - Inventory health analytics (dead stock / overstock via months of supply) + HTML reporting
   - Basket mining + shelf zoning guides (FP-Growth + Louvain on co-purchase graphs)
