@@ -4,12 +4,10 @@ Dual-degree undergraduate (expected 2027) in:
 - BSc (Hons) in Information Technology (Data Science Specialization) — SLIIT
 - BSc in Physical Science — University of Ruhuna
 
-I build practical data systems for real constraints: legacy databases, verification-first migrations, and retail analytics.
-
-Currently targeting internships in data analytics, data science, and machine learning.
+Data science student exploring how data systems and machine learning ideas translate into real-world workflows.
 
 ## Focus
-- Data analytics and automation for retail operations
+- Retail analytics and decision support
 - Data extraction/ETL + validation ("trust the numbers")
 - Applied ML/IR: market basket (FP-Growth), graph clustering (Louvain), agentic AI systems
 
@@ -24,9 +22,10 @@ Currently targeting internships in data analytics, data science, and machine lea
   - Basket mining + shelf zoning guides (FP-Growth + Louvain on co-purchase graphs)
 
 ## Stack
-- Python, SQL, Pandas, NumPy, SQLite
-- NetworkX, mlxtend
-- FastAPI, Docker, Linux
+I like learning through building. Recent work spans:
+- Retail analytics and reporting tools (Python)
+- Multi-agent dynamic pricing system (FastAPI + LLM providers)
+- Data migration and verification automation for legacy systems (PowerShell + Java)
 
 ## Contact
 - Email: dinithasasindu10@gmail.com
