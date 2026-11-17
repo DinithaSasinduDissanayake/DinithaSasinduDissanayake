@@ -27,9 +27,6 @@ Data science student exploring how data systems and machine learning ideas trans
 - SmartBin (full-stack demo)
   - https://github.com/DinithaSasinduDissanayake/SmartBin
 
-## CV
-I maintain two one-page resume variants (data/analytics-first and AI/agentic-first). Files are currently private while I sanitize project details.
-
 ## Stack
 I like learning through building. Recent work spans:
 - Retail analytics and reporting tools (Python)
