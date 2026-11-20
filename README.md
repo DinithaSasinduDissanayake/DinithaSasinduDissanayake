@@ -1,9 +1,9 @@
 ### Dinitha Sasindu Dissanayake
 
 **AI Engineer & Data Science Undergrad (4th Year, SLIIT)** · Malabe, Sri Lanka  
-Building agentic systems, LLM tooling, and data backends. Available immediately for full-time AI Engineering / Data Science internships.
+Building agentic systems, LLM tooling, and data backends.
 
-[Portfolio](https://sasindu.com) · [LinkedIn](https://www.linkedin.com/in/dinithadissanayake/) · [Email](mailto:dinithasasindu10@gmail.com)
+[Website](https://sasindu.com) · [LinkedIn](https://www.linkedin.com/in/dinithadissanayake/) · [Email](mailto:dinithasasindu10@gmail.com)
 
 ---
 
