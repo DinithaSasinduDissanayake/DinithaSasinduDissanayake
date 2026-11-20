@@ -1,38 +1,22 @@
-# Dinitha Sasindu Dissanayake
+### Dinitha Sasindu Dissanayake
 
-Dual-degree undergraduate (expected 2027) in:
-- BSc (Hons) in Information Technology (Data Science Specialization) — SLIIT
-- BSc in Physical Science — University of Ruhuna
+**AI Engineer & Data Science Undergrad (4th Year, SLIIT)** · Malabe, Sri Lanka  
+Building agentic systems, LLM tooling, and data backends. Available immediately for full-time AI Engineering / Data Science internships.
 
-Data science student exploring how data systems and machine learning ideas translate into real-world workflows.
+[Portfolio](https://sasindu.com) · [LinkedIn](https://www.linkedin.com/in/dinithadissanayake/) · [Email](mailto:dinithasasindu10@gmail.com)
 
-## Focus
-- Retail analytics and decision support
-- Data extraction/ETL + validation ("trust the numbers")
-- Applied ML/IR: market basket (FP-Growth), graph clustering (Louvain), agentic AI systems
+---
 
-## Featured Work
-- FluxPricer (Dynamic Pricing AI, multi-agent) — top contributor
-  - Repo (my fork): https://github.com/DinithaSasinduDissanayake/dynamic-pricing-ai-IRWA_PROJECT
-  - Upstream: https://github.com/ManushiChamika/dynamic-pricing-ai-IRWA_PROJECT
+#### Featured Projects
 
-- Retail operations: data migration + analytics (private for now; being sanitized for public release)
-  - Legacy Access 97 (.mdb) master-data migration + verification-first checks (41,196 records; 95% reduction in manual entry)
-  - Inventory health analytics (dead stock / overstock via months of supply) + HTML reporting
-  - Basket mining + shelf zoning guides (FP-Growth + Louvain on co-purchase graphs)
+- **[Retail Analytics Agent](https://github.com/DinithaSasinduDissanayake/retail-analytics-agent)** — Analytical platform over 263,000+ retail transactions using DuckDB, a PydanticAI Plan-Execute-Validate (PEV) agent, FastAPI, and React 19 SSE streaming.
+- **[FluxPricer](https://github.com/DinithaSasinduDissanayake/dynamic-pricing-ai-IRWA_PROJECT)** — Multi-agent dynamic pricing system built with Python, FastAPI, LangGraph, SSE, and SQLite token-cost tracking (led a 4-person team).
+- **[PI-CLAW Memory](https://github.com/DinithaSasinduDissanayake/pi-claw-memory)** — Hybrid RAG and multi-agent episodic memory engine combining local `all-MiniLM-L6-v2` embeddings (FastEmbed) with BM25 over SQLite and REST.
+- **[SAM CLI](https://github.com/DinithaSasinduDissanayake/sam-agent)** — Zero-dependency Python CLI process supervisor for background sub-agents using `fcntl.flock` mutexes, atomic renames, and SIGTERM cascades.
+- **[Voice Assistant Daemon](https://github.com/DinithaSasinduDissanayake/voice-assistant-daemon)** — Low-latency Linux speech-to-text daemon binding `libwhisper.so` via Ctypes with Silero ONNX VAD and a PyQt6 Wayland HUD.
 
-## More Projects
-- Automation notebook: torrent to Google Drive (Colab)
-  - https://github.com/DinithaSasinduDissanayake/torrent-to-gdrive-ipynb
-- SmartBin (full-stack demo)
-  - https://github.com/DinithaSasinduDissanayake/SmartBin
+---
 
-## Stack
-I like learning through building. Recent work spans:
-- Retail analytics and reporting tools (Python)
-- Multi-agent dynamic pricing system (FastAPI + LLM providers)
-- Data migration and verification automation for legacy systems (PowerShell + Java)
+#### Core Stack
 
-## Contact
-- Email: dinithasasindu10@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dinithadissanayake/
+`Python` · `SQL` · `TypeScript` · `LangGraph` · `PydanticAI` · `FastAPI` · `DuckDB` · `PostgreSQL` · `PyTorch (ONNX)` · `Docker` · `Linux`
