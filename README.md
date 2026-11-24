@@ -1,22 +1,21 @@
 ### Dinitha Sasindu Dissanayake
 
 **AI Engineer & Data Science Undergrad (4th Year, SLIIT)** · Malabe, Sri Lanka  
-Building agentic systems, LLM tooling, and data backends.
+Building data pipelines, machine learning evaluation workflows, and LLM tooling.
 
-[Website](https://sasindu.com) · [LinkedIn](https://www.linkedin.com/in/dinithadissanayake/) · [Email](mailto:dinithasasindu10@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dinithadissanayake/) · [Email](mailto:dinithasasindu10@gmail.com)
 
 ---
 
 #### Featured Projects
 
-- **[Retail Analytics Agent](https://github.com/DinithaSasinduDissanayake/retail-analytics-agent)** — Analytical platform over 263,000+ retail transactions using DuckDB, a PydanticAI Plan-Execute-Validate (PEV) agent, FastAPI, and React 19 SSE streaming.
-- **[FluxPricer](https://github.com/DinithaSasinduDissanayake/dynamic-pricing-ai-IRWA_PROJECT)** — Multi-agent dynamic pricing system built with Python, FastAPI, LangGraph, SSE, and SQLite token-cost tracking (led a 4-person team).
-- **[PI-CLAW Memory](https://github.com/DinithaSasinduDissanayake/pi-claw-memory)** — Hybrid RAG and multi-agent episodic memory engine combining local `all-MiniLM-L6-v2` embeddings (FastEmbed) with BM25 over SQLite and REST.
-- **[SAM CLI](https://github.com/DinithaSasinduDissanayake/sam-agent)** — Zero-dependency Python CLI process supervisor for background sub-agents using `fcntl.flock` mutexes, atomic renames, and SIGTERM cascades.
-- **[Voice Assistant Daemon](https://github.com/DinithaSasinduDissanayake/voice-assistant-daemon)** — Low-latency Linux speech-to-text daemon binding `libwhisper.so` via Ctypes with Silero ONNX VAD and a PyQt6 Wayland HUD.
+- **[Retail Analytics Agent](https://github.com/DinithaSasinduDissanayake/retail-analytics-agent)** — DuckDB analytical warehouse consolidating 8 years / 263,000+ real POS transaction dockets (487,000+ line items), with a public sanitized FastAPI SSE + PydanticAI read-only SQL query agent and synthetic demo dataset.
+- **[VESPER](https://github.com/DinithaSasinduDissanayake/VESPER)** — Final-year ML research project (team lead): Day-0 CVE exploitation risk prioritization across 14 leakage-safe rolling quarterly splits (152,600 CVEs), outperforming CVSS on Hits@100 (57 vs. 32, 95% CI +9 to +45) with word-level explanations and 563 automated tests.
+- **[FluxPricer](https://github.com/DinithaSasinduDissanayake/dynamic-pricing-ai-IRWA_PROJECT)** — Multi-agent dynamic pricing assistant (primary implementer, 72% of codebase) built with Python, FastAPI, custom `asyncio` event bus, OpenAI SDK tool calling, SSE streaming, SQLite audit/cost logging, and 140+ `pytest` tests.
+- **[PI-CLAW Memory](https://github.com/DinithaSasinduDissanayake/pi-claw-memory)** — Local CPU hybrid retrieval engine combining `all-MiniLM-L6-v2` dense embeddings (FastEmbed) with `bm25s` keyword search via Reciprocal Rank Fusion over a markdown knowledge base.
 
 ---
 
 #### Core Stack
 
-`Python` · `SQL` · `TypeScript` · `LangGraph` · `PydanticAI` · `FastAPI` · `DuckDB` · `PostgreSQL` · `PyTorch (ONNX)` · `Docker` · `Linux`
+`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-Learn` · `DuckDB` · `SQLite` · `FastAPI` · `PydanticAI` · `FastEmbed` · `BM25` · `pytest` · `Git` · `Linux`
